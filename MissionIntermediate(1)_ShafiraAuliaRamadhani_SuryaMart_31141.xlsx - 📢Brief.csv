@@ -1,0 +1,13 @@
+,🕵️‍♂️INSTRUKSI PENGERJAAN🕵️‍♂️
+1,Pahami konteks studi kasus dan dataset
+,
+2,Jawab pertanyaan analisis
+,Gunakan SQL untuk menjawab setiap pertanyaan yang diberikan. Jalankan query satu per satu di platform yang kamu gunakan (misalnya Google BigQuery atau DBMS lainnya).
+,
+3,Gunakan hint jika diperlukan
+,Hint disediakan untuk membantumu memahami arah query. Jangan ragu memodifikasi sesuai pemahamanmu.
+,
+4,Salin Query dan Output -> SQL Output 
+,"Setelah menjalankan query, salin kode SQL dan hasil output-nya ke dalam kolom yang sudah disediakan."
+,
+5,Tulis Insight & Rekomendasi -> Insight Summary & Strategy 
